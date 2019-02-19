@@ -1,0 +1,2 @@
+C:\Users\Ritesh\Documents\Visual Studio 2017\Projects\SFOProject\CityTestMethod\obj\Debug\CityTestMethod.csprojResolveAssemblyReference.cache
+C:\Users\Ritesh\Documents\Visual Studio 2017\Projects\SFOProject\CityTestMethod\obj\Debug\CityTestMethod.csproj.CoreCompileInputs.cache
